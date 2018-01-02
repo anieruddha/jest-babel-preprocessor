@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sterpe/jest-babel-preprocessor.git"
+    "url": "git+https://github.com/sterpe/jest-babel-preprocessor.git",
     "postinstall": "node ./scripts/postinstall"
   },
   "keywords": [
